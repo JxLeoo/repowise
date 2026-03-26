@@ -1,5 +1,7 @@
 # RepoWise
 
+![RepoWise logo](assets/repowise-logo.png)
+
 RepoWise helps indie builders and small technical teams decide whether a GitHub repo is worth adopting, piloting, watching, or avoiding.
 
 Live product: [https://repowise.tech](https://repowise.tech)
@@ -47,6 +49,12 @@ Paste a GitHub repo URL and get a fixed adoption memo:
 - [Claude Code case](https://repowise.tech/cases/anthropics-claude-code)
 - [MarkItDown case](https://repowise.tech/cases/microsoft-markitdown)
 - [Coolify case](https://repowise.tech/cases/coolify-coolify)
+
+## Open A Live Memo
+
+- [PocketBase live memo](https://repowise.tech/repo/pocketbase/pocketbase)
+- [Claude Code live memo](https://repowise.tech/repo/anthropics/claude-code)
+- [Coolify live memo](https://repowise.tech/repo/coollabsio/coolify)
 
 ## What Makes RepoWise Different
 
