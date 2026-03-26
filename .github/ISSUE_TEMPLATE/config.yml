@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Try RepoWise live
+    url: https://repowise.tech
+    about: Open the live product and evaluate a repo directly.
+  - name: Browse case studies
+    url: https://repowise.tech/cases
+    about: See how RepoWise frames adoption decisions across different repo patterns.
+  - name: Read evaluation guides
+    url: https://repowise.tech/guides
+    about: Read adoption-first guides before filing broader feedback.
